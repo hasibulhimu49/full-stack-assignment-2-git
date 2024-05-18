@@ -14,3 +14,11 @@
 
 5.Pull Requests:
    -Description: Pull requests are used to discuss and review code changes before merging them into the main branch.
+
+### 2 more of my learnings
+
+6.Forking Repositories:
+   -Description: Forking creates a personal copy of another user's repository. It lets you experiment with changes without affecting the original project. This is essential for contributing to open-source projects.
+
+7.Issues and Bug Tracking:
+   **Description**: GitHub Issues track bugs, enhancements, tasks, and questions. They help organize and prioritize work and facilitate discussions among contributors.
