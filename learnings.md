@@ -21,4 +21,4 @@
    -Description: Forking creates a personal copy of another user's repository. It lets you experiment with changes without affecting the original project. This is essential for contributing to open-source projects.
 
 7.Issues and Bug Tracking:
-   **Description**: GitHub Issues track bugs, enhancements, tasks, and questions. They help organize and prioritize work and facilitate discussions among contributors.
+   Description: GitHub Issues track bugs, enhancements, tasks, and questions. They help organize and prioritize work and facilitate discussions among contributors.
